@@ -1,0 +1,5 @@
+| task 2 - prompt generate action item | Contains the Copilot prompt used to generate the action plan based on the Teams transcript summary. |
+
+in the context of this meeting agenda please generate a meeting summary and Action Plan what was discussed in this meeting, attached you can find the transcript "Teams Meeting Transcript". 
+
+The Action Plan must include the following sections and must be generated in word: General Strategies Immediate Actions Short-Term Actions (1-3 weeks) Ongoing Actions

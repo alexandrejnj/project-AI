@@ -1,0 +1,4 @@
+| task 1 - prompt Supply Chain Issues Review | Contains the Copilot prompt used to generate the Supply Chain Issues Review report. |
+
+
+generate for me a "Supply Chain Issues Review" based on the email, excel and summary. This report should be professionally formatted with consistent johnson and jonson medtech surgery layout and include the following sections: Introduction Outline of the Business Problem Action Items Conclusion

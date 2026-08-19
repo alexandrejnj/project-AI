@@ -1,0 +1,10 @@
+| task 4 - prompt Supply Chain Issue Compliance Report | Contains the Copilot prompt used to generate the stakeholder presentation in PowerPoint. |
+
+
+generate a "Supply Chain Issue Compliance Report" presentation. The content must accurately reflect the information in the "Supply Chain Issue Analysis Report.docx" and "Supply Chain Report.xlsx." the structure must be:
+1. Title Slide
+2. Summary of Key Issues
+3. Data Insights from Excel Analysis
+4. Proposed Solutions
+5. Implementation Plan
+- The slides include Copilot generated speaker notes

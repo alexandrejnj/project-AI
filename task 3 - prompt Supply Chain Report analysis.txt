@@ -1,0 +1,7 @@
+| task 3 - prompt Supply Chain Report analysis | Contains the Copilot prompt used in Excel to analyze the Supply Chain Report data. |
+
+
+create an analysis providing the following insights:
+1. Average delivery timeline by risk level
+2. On-time delivery rate for delayed components (CARB123, BIND567, COAT890)
+3. Supplier performance breakdown

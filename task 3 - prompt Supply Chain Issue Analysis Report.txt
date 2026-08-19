@@ -1,0 +1,10 @@
+| task 3 - prompt Supply Chain Issue Analysis Report | Contains the Copilot prompt used to generate the Supply Chain Issue Analysis Report in Word. |
+
+
+based on the tab called "analysis" on the attached excel, 
+generate a "Supply Chain Issue Analysis Report" based on the Excel analysis. This report must include:
+1.Executive Summary
+2.Component Overview
+3.Implications for Compliance
+4.Root Cause Analysis
+5.Mitigation Strategies (General and Component-Specific)
